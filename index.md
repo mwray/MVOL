@@ -17,8 +17,7 @@ We collect multi-verb annotations for three action video datasets and evaluate t
 ## Video
 
 
-<iframe align="center" width="640" height="360" src="https://www.youtube.com/embed/E1CRoOG2eE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe align="center" width="640" height="360" src="https://www.youtube.com/embed/GEJRi5etiaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Paper
