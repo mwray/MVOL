@@ -2,7 +2,7 @@
 <a href="https://mwray.github.io/">Michael Wray</a> and <a href="https://dimadamen.github.io/">Dima Damen</a>
 </p>
 
-![Verb Overlaps](intro_fig.jpg)
+![Verb Overlaps](intro_fig.png)
 
 ## Abstract
 
