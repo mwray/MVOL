@@ -32,7 +32,7 @@ We collect multi-verb annotations for three action video datasets and evaluate t
 @InProceedings{wray2019learning,
     author    = {Wray, Michael and Damen, Dima},
     title     = {Learning Visual Actions Using Multiple Verb-Only Labels},
-    booktitle = {Proceedings of the IEEE International Conference on Computer Vision (ICCV)},
+    booktitle = {British Machine Vision Conference (BMVC)},
     year      = {2019}
 }
 ```
