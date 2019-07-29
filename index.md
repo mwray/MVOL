@@ -4,6 +4,8 @@
 
 ![Verb Overlaps](intro_fig.png)
 
+![Verb Labels](motivation.png)
+
 ## Abstract
 
 This work introduces verb-only representations for both recognition and retrieval of visual actions, in video. Current methods neglect legitimate semantic ambiguities between verbs, instead choosing unambiguous subsets of verbs along with objects to disambiguate the actions. We instead propose multiple verb-only labels, which we learn through hard or soft assignment as a regression. This enables learning a much larger vocabulary of verbs, including contextual overlaps of these verbs.
@@ -34,6 +36,10 @@ We collect multi-verb annotations for three action video datasets and evaluate t
     year      = {2019}
 }
 ```
+
+## Annotations
+
+The annotations for the three datasets can be found [here](https://github.com/mwray/Multi-Verb-Labels).
 
 ## Acknowledgements
 This research is supported by [EPSRC LOCATE (EP/N033779/1)](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/N033779/1) and EPSRC Doctoral Training Partnerships (DTP). 
