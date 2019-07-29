@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: "Learning Visual Actions Using Multiple Verb-Only Labels"
+favicon: favicon.ico
 github:
       is_project_page: false
