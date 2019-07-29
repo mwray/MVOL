@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <p align="center" style="font-size:30px">
 <a href="https://mwray.github.io/">Michael Wray</a> and <a href="https://dimadamen.github.io/">Dima Damen</a>
 </p>
